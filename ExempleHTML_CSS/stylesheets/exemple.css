@@ -1,0 +1,41 @@
+*{
+    width: 80%;
+}
+
+p{
+    padding: 13px;
+}
+
+ul {
+    background-color: mediumblue;
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: georgian;
+}
+
+h1, ol{
+    text-align: center;
+}
+
+ul strong{
+    color: mintcream;
+}
+
+p em, p strong{
+    color:red;
+}
+
+.green-text{
+    color: lime;
+}
+
+#long-para{
+    text-align: justify;
+}
+
+#image-soleil{
+    width:500px;
+    height:600px;
+}
